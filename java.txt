@@ -2,3 +2,5 @@ public static void main {Sring[] args}
 System.out.println{
 
 }
+int a=10;
+
